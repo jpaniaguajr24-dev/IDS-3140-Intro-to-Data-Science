@@ -1,7 +1,7 @@
 # Final Project - Data Science Classification Pipeline
 
 ## Overview
-This final project applied the full data science process to a real dataset, including data cleaning, exploratory analysis, feature preparation, machine learning models, and performance evaluation.
+This final project applied the full data science process to a dataset, including data cleaning, exploratory analysis, feature preparation, machine learning models, and performance evaluation.
 
 The goal was to build predictive models and compare results to determine the best solution.
 
@@ -16,8 +16,6 @@ The goal was to build predictive models and compare results to determine the bes
 ## Files Included
 
 - `FinalProject.ipynb` → Jupyter Notebook containing full project workflow
-- `report.pdf` → Written project summary (if included)
-- `presentation.pptx` → Project presentation (if included)
 
 ## Tools Used
 
@@ -27,7 +25,7 @@ The goal was to build predictive models and compare results to determine the bes
 - NumPy
 - Matplotlib
 - Scikit-learn
-- SQLite (if used)
+- SQLite 
 
 ## Machine Learning Models
 
