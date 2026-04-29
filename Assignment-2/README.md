@@ -14,7 +14,6 @@ This assignment focused on exploring a dataset using Python to understand trends
 ## Files Included
 
 - `Assignment2.ipynb` → Jupyter Notebook with code and analysis
-- `dataset file` → Original dataset used in the assignment
 
 ## Tools Used
 
