@@ -1,7 +1,7 @@
 # Final Project - Data Science Classification Pipeline
 
 ## Overview
-This final project applied the full data science process to a dataset, including data cleaning, exploratory analysis, feature preparation, machine learning models, and performance evaluation.
+This final project applied the full data science process, including: data cleaning, exploratory analysis, feature preparation, machine learning models, and performance evaluation.
 
 The goal was to build predictive models and compare results to determine the best solution.
 
