@@ -14,8 +14,6 @@ Computer Science coursework focused on:
 - Assignment 1: Data Cleaning
 - Assignment 2: Exploratory Data Analysis
 - Assignment 3: Machine Learning Models
-- Assignment 4: Advanced Topics / Final Coursework
-- Final Project
 
 ## Tools Used
 
